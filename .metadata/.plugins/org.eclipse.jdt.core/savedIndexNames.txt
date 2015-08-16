@@ -1,0 +1,10 @@
+INDEX VERSION 1.127+R:\javalearnersgit\rithwikexamples\.metadata\.plugins\org.eclipse.jdt.core
+4034124280.index
+3236163063.index
+434818307.index
+1463360049.index
+3377590112.index
+2320596926.index
+1001612354.index
+1602692957.index
+1031743457.index
