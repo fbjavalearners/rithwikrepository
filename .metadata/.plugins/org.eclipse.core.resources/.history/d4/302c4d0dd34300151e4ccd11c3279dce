@@ -1,0 +1,16 @@
+package org.jl;
+
+public class StudentTo {
+
+	private int sid;
+	private String sname;
+	
+	public StudentTo(){
+		
+		
+	}
+	
+	
+	
+	
+}

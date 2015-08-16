@@ -1,0 +1,26 @@
+package org.jl;
+
+public class HashSet {
+
+	
+	
+	public static void main(String args[]){
+		
+		
+		StudentTo s1 = new StudentTo(1,"Rithwik");
+		StudentTo s2 = new StudentTo(1,"Rithwik");
+		
+		
+		if(s1.equals(s2)){
+			
+			System.out.println()
+		}
+		
+		
+		
+		
+		
+	}
+	
+	
+}
